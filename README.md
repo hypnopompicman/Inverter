@@ -60,7 +60,3 @@ Si desea obtener más información acerca del **script**, puede consultar los **
 ## Autor ✒️
 
 * Autor del código: [Javier Chamorro Salas](https://github.com/hypnopompicman)
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
